@@ -4,6 +4,7 @@
 import unittest
 from app import sum, sub, mul
 
+
 class TestMathFunctions(unittest.TestCase):
 
     def test_add(self):
