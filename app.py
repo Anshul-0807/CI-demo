@@ -14,5 +14,4 @@ if __name__ == "__main__":
     out1 = sum(4, 6)
     out2 = sub(9, 5)
 
-
     print(out1, out2)
